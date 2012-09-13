@@ -4,7 +4,7 @@
   "description": "A Javascript pretty printer, based on js-beautify. See https://npmjs.org/package/js-beautify for details and then save your style preferences in ./config.json.",
   "keywords": ["js-beautify", "beautify", "beautifier", "pretty", "prettyprint"],
   "author": "Per Ejeklint <ejeklint@me.com>",
-  "homepage": "http://github.com/ejeklint/js-beautify.chocmixin",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/ejeklint/js-beautify.chocmixin.git"
