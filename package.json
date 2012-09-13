@@ -1,13 +1,13 @@
 {
-  "name": "js-beautify.mixin",
+  "name": "js-beautify.chocmixin",
   "version": "0.1.0",
   "description": "A Javascript pretty printer, based on js-beautify. See https://npmjs.org/package/js-beautify for details and then save your style preferences in ./config.json.",
   "keywords": ["js-beautify", "beautify", "beautifier", "pretty", "prettyprint"],
   "author": "Per Ejeklint <ejeklint@me.com>",
-  "homepage": "http://github.com/ejeklint/js-beautify.mixin",
+  "homepage": "http://github.com/ejeklint/js-beautify.chocmixin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ejeklint/js-beautify.mixin.git"
+    "url": "https://github.com/ejeklint/js-beautify.chocmixin.git"
   },
   "dependencies": {
     "js-beautify": "0.2.x"
