@@ -1,5 +1,5 @@
 {
-  "name": "js-beautify.chocmixin",
+  "name": "js-beautify",
   "version": "0.1.0",
   "description": "A Javascript pretty printer, based on js-beautify. See https://npmjs.org/package/js-beautify for details and then save your style preferences in ./config.json.",
   "keywords": ["js-beautify", "beautify", "beautifier", "pretty", "prettyprint"],
